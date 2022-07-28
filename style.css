@@ -1,4 +1,8 @@
-.card-img {
-    width: 200px;
-    height: 200px;
+.work-img {
+    width: 335px;
+    height: 545px;
+}
+
+.work-detail {
+    background: #F4FAFD;
 }
