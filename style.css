@@ -6,3 +6,9 @@
 .work-detail {
     background: #F4FAFD;
 }
+
+@media screen and (max-width: 576px) {
+    .cour-img {
+        width: 100%;
+    }
+}
